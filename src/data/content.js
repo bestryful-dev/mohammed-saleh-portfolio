@@ -717,7 +717,7 @@ export const CONTENT = {
       submit: "تجهيز رسالة واتساب",
       successTitle: "تم تجهيز الرسالة",
       successDesc: "يمكنك الإرسال الآن مباشرة عبر واتساب أو البريد الإلكتروني أو لينكدإن.",
-      whatsappBtn: "إرسال عبر واتساب (+967 773 830 200)",
+      whatsappBtn: "إرسال عبر واتساب ",
       copyEmail: "نسخ البريد الإلكتروني",
       emailCopied: "تم النسخ!",
       linkedinBtn: "فتح ملف لينكدإن",
