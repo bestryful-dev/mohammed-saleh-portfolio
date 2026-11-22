@@ -76,7 +76,7 @@ export const CONTENT = {
         "B.Sc. Medical Laboratory — Sana'a Univ.",
         "1,779+ LinkedIn Network",
       ],
-      portraitFigure: "FIG. 01 — MOHAMMED SALEH",
+      portraitFigure: "  — MOHAMMED SALEH",
       portraitComingSoon: "PORTRAIT • DROP public/portrait.jpg",
       portraitTag: "PR Director & Operations Leader",
       availabilityTag: "Open to Executive & Consulting Roles",
